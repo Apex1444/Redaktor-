@@ -1,0 +1,10 @@
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\Журавко\Grafik]\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
